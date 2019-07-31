@@ -1,6 +1,6 @@
 {
-    "name": "topthink/think",
-    "description": "the new thinkphp framework",
+    "name": "gzhantao/tp_api",
+    "description": "gzhantao/tp_api",
     "type": "project",
     "keywords": [
         "framework",
@@ -11,8 +11,7 @@
     "license": "Apache-2.0",
     "authors": [
         {
-            "name": "liu21st",
-            "email": "liu21st@gmail.com"
+            "name": "gzhantao"
         }
     ],
     "require": {
