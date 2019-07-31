@@ -1,2 +1,2 @@
 
-composer create-project gzhantao/tp_api
+composer create-project gzhantao/tp_api dev-master
